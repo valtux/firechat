@@ -17,7 +17,7 @@
   border-radius: 20px;
 }
 
-.app-mensajes{
+#app-mensajes{
   overflow-y:scroll;
   height:270px;
   /*background:gray;*/
